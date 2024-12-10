@@ -1,0 +1,967 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Debite - Card Payment & Online Payment Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Card List",
+            "screenshot": "screenshots\/card-list.jpg",
+            "source": "templates\/card-list.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/card-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Card Detail",
+            "screenshot": "screenshots\/card-detail.jpg",
+            "source": "templates\/card-detail.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/card-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Archives",
+            "screenshot": "screenshots\/archives.jpg",
+            "source": "templates\/archives.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/archives\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Debite Header",
+            "screenshot": "screenshots\/debite-header.jpg",
+            "source": "templates\/debite-header.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/debite-header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Debite Footer",
+            "screenshot": "screenshots\/debite-footer.jpg",
+            "source": "templates\/debite-footer.json",
+            "preview_url": "https:\/\/dkkit.rometheme.pro\/debite\/template-kit\/debite-footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "digital-wave-particles-background-set-DBBRRC3b.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/digital-wave-particles-background-set-DBBRRC3b-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/archives.json",
+                    "name": "Archives"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 316567,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/digital-wave-particles-background-set-DBBRRC3"
+        },
+        {
+            "filename": "cool-pay-payment-mobile-app-ui-kit-j.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/cool-pay-payment-mobile-app-ui-kit-j.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 264682,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-mockup-95LUHZQ"
+        },
+        {
+            "filename": "cloud-technology-50-T8CL9YDh.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/cloud-technology-50-T8CL9YDh.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                }
+            ],
+            "filesize": 18470,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cloud-technology-50-T8CL9YD"
+        },
+        {
+            "filename": "cloud-technology-50-T8CL9YDb.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/cloud-technology-50-T8CL9YDb.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                }
+            ],
+            "filesize": 8445,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cloud-technology-50-T8CL9YD"
+        },
+        {
+            "filename": "map2.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/map2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 106634,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bright-glowing-neon-vector-abstract-world-map-AYUJ8X"
+        },
+        {
+            "filename": "online-shopping-isometric-icons-pack-5S6CEKMc.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/online-shopping-isometric-icons-pack-5S6CEKMc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 54891,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-shopping-isometric-icons-pack-5S6CEKM"
+        },
+        {
+            "filename": "e-payment-isometric-illustration-5GB63RYde.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/e-payment-isometric-illustration-5GB63RYde.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 56058,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/e-payment-isometric-illustration-5GB63RY"
+        },
+        {
+            "filename": "e-payment-isometric-illustration-5GB63RYd.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/e-payment-isometric-illustration-5GB63RYd.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92711,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/e-payment-isometric-illustration-5GB63RY"
+        },
+        {
+            "filename": "cool-pay-payment-mobile-app-ui-kit-f.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/cool-pay-payment-mobile-app-ui-kit-f.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 131736,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-mockup-95LUHZQ"
+        },
+        {
+            "filename": "cool-pay-payment-mobile-app-ui-kit-b.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/cool-pay-payment-mobile-app-ui-kit-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 144230,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-mockup-95LUHZQ"
+        },
+        {
+            "filename": "young-asian-man-against-gray-background-P3ANVZFa.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/young-asian-man-against-gray-background-P3ANVZFa.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 97868,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-asian-man-against-gray-background-P3ANVZF"
+        },
+        {
+            "filename": "young-handsome-indian-man-against-brown-background-AXWY8TGa.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/young-handsome-indian-man-against-brown-background-AXWY8TGa.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 124604,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-handsome-indian-man-against-brown-background-AXWY8TG"
+        },
+        {
+            "filename": "handsome-bald-man-giving-thumb-down-against-gray-b-6V4SQ9Ya.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/handsome-bald-man-giving-thumb-down-against-gray-b-6V4SQ9Ya.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 97573,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-bald-man-giving-thumb-down-against-gray-b-6V4SQ9Y"
+        },
+        {
+            "filename": "young-handsome-man-laughing-against-gray-studio-ba-NAFMGMSa.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/young-handsome-man-laughing-against-gray-studio-ba-NAFMGMSa.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 100607,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-handsome-man-laughing-against-gray-studio-ba-NAFMGMS"
+        },
+        {
+            "filename": "robot-hand-background-presenting-technology-gestur-T45KHFVv.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/robot-hand-background-presenting-technology-gestur-T45KHFVv-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/archives.json",
+                    "name": "Archives"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 231430,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/robot-hand-background-presenting-technology-gestur-T45KHFV"
+        },
+        {
+            "filename": "Isometric-Credit-Card-Mockupsv.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/Isometric-Credit-Card-Mockupsv.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/archives.json",
+                    "name": "Archives"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 142952,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/isometric-credit-card-mockups-WSF9G8P"
+        },
+        {
+            "filename": "handsome-professional-businessman-standing-near-co-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/handsome-professional-businessman-standing-near-co-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 290652,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ https:\/\/elements.envato.com\/handsome-professional-businessman-standing-near-co-72DMY5B"
+        },
+        {
+            "filename": "stylish-female-with-beautiful-makeup-posing-outdoo-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/stylish-female-with-beautiful-makeup-posing-outdoo-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 363384,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-female-with-beautiful-makeup-posing-outdoo-2021-09-04-04-53-41-utc"
+        },
+        {
+            "filename": "portrait-of-young-caucasian-business-man-in-formal-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/portrait-of-young-caucasian-business-man-in-formal-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 249731,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-caucasian-business-man-in-formal-KDAGB8Z"
+        },
+        {
+            "filename": "e-payment-isometric-illustration-5GB63RYc.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/e-payment-isometric-illustration-5GB63RYc.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 66864,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/e-payment-isometric-illustration-5GB63RY"
+        },
+        {
+            "filename": "online-shopping-isometric-icons-pack-5S6CEKMd.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/online-shopping-isometric-icons-pack-5S6CEKMd.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 50509,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-shopping-isometric-icons-pack-5S6CEKM"
+        },
+        {
+            "filename": "modern-flat-design-isometric-illustrations-UDKH4Ya.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/modern-flat-design-isometric-illustrations-UDKH4Ya.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 64567,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-UDKH4Y"
+        },
+        {
+            "filename": "confident-young-man-in-elegant-suit-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/confident-young-man-in-elegant-suit-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 188030,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-young-man-in-elegant-suit-YMBYE24"
+        },
+        {
+            "filename": "studio-portrait-of-a-young-woman-in-sweater-on-bei-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/studio-portrait-of-a-young-woman-in-sweater-on-bei-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 296292,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-portrait-of-a-young-woman-in-sweater-on-bei-2021-09-04-10-25-17-utc"
+        },
+        {
+            "filename": "portrait-of-handsome-young-man-in-black-formal-sui-a.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/portrait-of-handsome-young-man-in-black-formal-sui-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 331221,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-young-man-in-black-formal-sui-2021-10-14-19-56-18-utc"
+        },
+        {
+            "filename": "digital-wave-particles-background-set-DBBRRC3ac.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/digital-wave-particles-background-set-DBBRRC3ac-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                },
+                {
+                    "source": "templates\/card-detail.json",
+                    "name": "Card Detail"
+                }
+            ],
+            "filesize": 262983,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/digital-wave-particles-background-set-DBBRRC3"
+        },
+        {
+            "filename": "digital-wave-particles-background-set-DBBRRC3a.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/digital-wave-particles-background-set-DBBRRC3a-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 262779,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/digital-wave-particles-background-set-DBBRRC3"
+        },
+        {
+            "filename": "Isometric-Credit-Card-Mockupsa.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/Isometric-Credit-Card-Mockupsa.png",
+            "templates": [
+                {
+                    "source": "templates\/card-list.json",
+                    "name": "Card List"
+                }
+            ],
+            "filesize": 103957,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/isometric-credit-card-mockups-WSF9G8P"
+        },
+        {
+            "filename": "business-meeting-and-teamwork-by-business-people.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/business-meeting-and-teamwork-by-business-people-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 507673,
+            "dimensions": [
+                1594,
+                1063
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-and-teamwork-by-business-people-VW586SV"
+        },
+        {
+            "filename": "customer-service-representative-at-work-8SVFAV4.jpg",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/customer-service-representative-at-work-8SVFAV4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 235677,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8SVFAV4"
+        },
+        {
+            "filename": "Debite-Logo2.png",
+            "thumbnail_url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/Debite-Logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/debite-header.json",
+                    "name": "Debite Header"
+                },
+                {
+                    "source": "templates\/debite-footer.json",
+                    "name": "Debite Footer"
+                }
+            ],
+            "filesize": 8267,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
