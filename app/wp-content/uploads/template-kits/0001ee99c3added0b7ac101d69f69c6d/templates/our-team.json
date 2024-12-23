@@ -1,0 +1,2286 @@
+{
+    "version": "0.4",
+    "title": "Our Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "14170376",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 60,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "column_position": "bottom",
+                "background_background": "gradient",
+                "background_color_stop": {
+                    "unit": "%",
+                    "size": 4,
+                    "sizes": []
+                },
+                "background_color_b_stop": {
+                    "unit": "%",
+                    "size": 69,
+                    "sizes": []
+                },
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 20,
+                    "sizes": []
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/digital-wave-particles-background-set-DBBRRC3b.png",
+                    "id": 300,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.1,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_color": "",
+                    "background_color_b": "globals\/colors?id=d8dbf42"
+                },
+                "background_color": "#00D7FF2E",
+                "background_color_b": "#000218",
+                "_title": "Header Page Section"
+            },
+            "elements": [
+                {
+                    "id": "8898bd",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "8",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "49769d1",
+                            "settings": {
+                                "ekit_heading_title": "Our {{Team}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "__globals__": {
+                                    "ekit_heading_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=e0ffabf",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=e0ffabf"
+                                },
+                                "ekit_heading_title_tag": "h1",
+                                "ekit_heading_sub_title_show": "",
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6fb64b2c",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "0",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Header Team Section"
+            },
+            "elements": [
+                {
+                    "id": "2e9990aa",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3b3bfa3",
+                            "settings": {
+                                "ekit_heading_title": "Meet The {{Team}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_color": "#FFFFFF",
+                                "ekit_heading_focused_title_color": "#00D7FF",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "4",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=3199334",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=3199334"
+                                },
+                                "ekit_heading_title_align": "text_center",
+                                "ekit_heading_title_align_mobile": "text_left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "62a4f68b",
+                            "settings": {
+                                "editor": "<p>Morbi sit amet metus et nisl fringilla fringilla sit amet molestie eros. Praesent pretium, velit sit amet molestie elementum. \u00a0Ut ac eros blandit, congue lacus ut, interdum odio. In nisi lorem, feugiat eget placerat vel, vehicula in mi.<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text",
+                                    "text_color": "globals\/colors?id=text"
+                                },
+                                "align": "center",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7e21db3f",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "1",
+                    "bottom": "0",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Team Section 1"
+            },
+            "elements": [
+                {
+                    "id": "1e7d4063",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "654af215",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/handsome-professional-businessman-standing-near-co-a.jpg",
+                                    "id": 392,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3b20f2c5",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5cc5c85",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1a8883ef",
+                                            "settings": {
+                                                "title": "Daniel Petruccie",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3c5a650c",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7ca8c3ce",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "574e697f",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6336e7d",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/stylish-female-with-beautiful-makeup-posing-outdoo-a.jpg",
+                                    "id": 391,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "76b40311",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1621f85b",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "685907be",
+                                            "settings": {
+                                                "title": "Zara Veronica",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "59e6146c",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "30379ddd",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1506dbe4",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "228a6681",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/portrait-of-young-caucasian-business-man-in-formal-a.jpg",
+                                    "id": 393,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "49db3fe8",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6fa90691",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6200acf0",
+                                            "settings": {
+                                                "title": "Answel Zureta",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2991de2d",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "a5052b9",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "53c396ba",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "1",
+                    "bottom": "14",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Team Section 2"
+            },
+            "elements": [
+                {
+                    "id": "116951e5",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "39d27cb7",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/confident-young-man-in-elegant-suit-a.jpg",
+                                    "id": 425,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5cc05b1f",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "13ff0572",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d2e9aa2",
+                                            "settings": {
+                                                "title": "Axwel Zino",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5ec487a7",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "37c2da52",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "45fc5bc",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4d4664d9",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/studio-portrait-of-a-young-woman-in-sweater-on-bei-a.jpg",
+                                    "id": 426,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4cc05407",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "49f2bac2",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "569e9e86",
+                                            "settings": {
+                                                "title": "Marinca Damini",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "fd3f775",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1c978315",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "44b7873d",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5340a84a",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/portrait-of-handsome-young-man-in-black-formal-sui-a.jpg",
+                                    "id": 428,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "789d7ddc",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "36884f9b",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=392ed42"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d0d4107",
+                                            "settings": {
+                                                "title": "Zeanco Platini",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ad1d203",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1e7b5b52",
+                                            "settings": {
+                                                "title": "Chief of Technology Officer",
+                                                "header_size": "span",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "302e7c50",
+                                            "settings": {
+                                                "ekit_socialmedia_add_icons": [
+                                                    {
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "_id": "d958073",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "30c5259"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "cc77853"
+                                                    },
+                                                    {
+                                                        "ekit_socialmedia_icons": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "ekit_socialmedia_label": "Facebook",
+                                                        "__globals__": {
+                                                            "ekit_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_socialmedia_icon_hover_color": "globals\/colors?id=primary",
+                                                            "ekit_socialmedia_icon_hover_bg_color": "globals\/colors?id=cf7d450",
+                                                            "ekit_socialmedia_icon_bg_color": "globals\/colors?id=cf7d450"
+                                                        },
+                                                        "_id": "b21e849"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-social-media",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2d6ae8d0",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 50,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "column_position": "stretch",
+                "structure": "20",
+                "background_background": "gradient",
+                "background_color": "#000000",
+                "background_color_b": "#00D7FF2E",
+                "background_color_b_stop": {
+                    "unit": "%",
+                    "size": 86,
+                    "sizes": []
+                },
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 360,
+                    "sizes": []
+                },
+                "background_gradient_position": "bottom right",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/robot-hand-background-presenting-technology-gestur-T45KHFVv.png",
+                    "id": 310,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "initial",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "shape_divider_top": "mountains",
+                "shape_divider_top_color": "#000000",
+                "shape_divider_top_width": {
+                    "unit": "%",
+                    "size": 150,
+                    "sizes": []
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 208,
+                    "sizes": []
+                },
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 191,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent",
+                    "background_color_b": "globals\/colors?id=392ed42",
+                    "shape_divider_top_color": "globals\/colors?id=accent",
+                    "shape_divider_bottom_color": ""
+                },
+                "_title": "CTA Section",
+                "reverse_order_tablet": "reverse-tablet",
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "3eba98e2",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "bottom",
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "4b190d5d",
+                            "settings": {
+                                "ekit_heading_title": "Get Ready To Have {{Best Smart Payments}} in The World",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=3199334",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=3199334",
+                                    "ekit_heading_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "17485dd0",
+                            "settings": {
+                                "text_color": "#B1B1B1",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "rem",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "rem",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "rem",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "editor": "<p>Are You Ready for fringilla fringilla sit amet molestie eros. Praesent pretium, velit sit amet molestie elementum. \u00a0Ut ac eros blandit, congue lacus ut.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "95285c0",
+                            "settings": {
+                                "text": "Get Started",
+                                "selected_icon": {
+                                    "value": "fas fa-caret-right",
+                                    "library": "fa-solid"
+                                },
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "hover_animation": "float",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "30",
+                                    "bottom": "15",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=2f342a8",
+                                    "button_text_color": "globals\/colors?id=secondary",
+                                    "background_color": "globals\/colors?id=392ed42",
+                                    "hover_color": "globals\/colors?id=secondary",
+                                    "button_background_hover_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "61d2e65",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "598c5198",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/dkkit.rometheme.pro\/debite\/wp-content\/uploads\/sites\/35\/2022\/02\/Isometric-Credit-Card-Mockupsv.png",
+                                    "id": 312,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.2,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}
